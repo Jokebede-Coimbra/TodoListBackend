@@ -1,7 +1,7 @@
-# TODO List - Desafio
+# TODO List - Desafio 🚧 *Em Construção*
 
 ## Descrição
-API para gerenciar tarefas (CRUD), desenvolvida como parte do desafio para pessoas desenvolvedoras backend júnior.
+API para gerenciar tarefas (CRUD), desenvolvida como parte do desafio para desenvolvedores back-end.
 
 ## Tecnologias Utilizadas
 - **Spring Boot**
@@ -21,6 +21,9 @@ API para gerenciar tarefas (CRUD), desenvolvida como parte do desafio para pesso
 - Consultas com Spring Data JPA
 - Injeção de dependências
 - Geração automática de documentação Swagger com OpenAPI 3
+
+## Status do Projeto
+🚧 **Em Construção**: O desenvolvimento está em andamento.
 
 ## Referência
 [Simplify - Desafio Backend Júnior](https://github.com/simplify-tec/desafio-junior-backend-simplify)
