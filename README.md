@@ -1,4 +1,4 @@
-# TODO List - Desafio 🚧 *Em Construção*
+# TODO List 
 
 ## Descrição
 API para gerenciar tarefas (CRUD), desenvolvida como parte do desafio para desenvolvedores back-end.
@@ -22,8 +22,6 @@ API para gerenciar tarefas (CRUD), desenvolvida como parte do desafio para desen
 - Injeção de dependências
 - Geração automática de documentação Swagger com OpenAPI 3
 
-## Status do Projeto
-🚧 **Em Construção**: O desenvolvimento está em andamento.
 
 ## Referência
 [Simplify - Desafio Backend Júnior](https://github.com/simplify-tec/desafio-junior-backend-simplify)
